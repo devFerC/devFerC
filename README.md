@@ -5,7 +5,7 @@ I enjoy building useful stuff, life’s too short for repetitive tasks ✨
 
 ⚡ These days I’m focused on:  
 - **Process automation** (Python, SQL, Bash).  
-- **APIs and backend **   
+- **APIs and backend**   
 - **Cloud (AWS & GCP)** to bring ideas into the ☁️.  
 - Exploring how **AI** can make projects smarter 🤯.  
 
