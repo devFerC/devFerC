@@ -12,6 +12,26 @@ I enjoy building useful stuff, life’s too short for repetitive tasks ✨
 ✨ Always learning, always tinkering~.  
 
 ---
+## 🌎 Spanish | Español
+
+<details>  
+  <summary>📂 Sobre mí</summary>  
+
+# Hey 👋, Fer por acá ✨  
+
+💻 Curiosa del mundo tech y fan de todo lo que huela a **informática** 🤖.  
+Me divierte crear herramientas que hagan el trabajo por mí (porque la vida es muy corta para tareas repetitivas 🌀).  
+
+⚡ Últimamente me enfoco en:  
+- **Automatización de procesos** (Python, SQL, Bash).  
+- **APIs y backend**.  
+- **Cloud (AWS & GCP)** para llevar las ideas a la nube ☁️.  
+- Explorando cómo la **IA** puede hacer que los proyectos sean más inteligentes 🤯.  
+
+✨ Siempre aprendiendo y siempre probando.~
+
+</details>  
+---
 
 ## 🛠️ Tools & Technologies
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -33,26 +53,5 @@ I enjoy building useful stuff, life’s too short for repetitive tasks ✨
 ![API REST](https://img.shields.io/badge/API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![AsyncAPI](https://img.shields.io/badge/AsyncAPI-6B4BFF?style=for-the-badge&logo=asyncapi&logoColor=white)  
 
----
-
-## 📂 About me | Sobre mí
-
-<details>  
-  <summary>🌎 Español</summary>  
-
-# Hey 👋, Fer por acá ✨  
-
-💻 Curiosa del mundo tech y fan de todo lo que huela a **informática** 🤖.  
-Me divierte crear herramientas que hagan el trabajo por mí (porque la vida es muy corta para tareas repetitivas 🌀).  
-
-⚡ Últimamente me enfoco en:  
-- **Automatización de procesos** (Python, SQL, Bash).  
-- **APIs y backend**.  
-- **Cloud (AWS & GCP)** para llevar las ideas a la nube ☁️.  
-- Explorando cómo la **IA** puede hacer que los proyectos sean más inteligentes 🤯.  
-
-✨ Siempre aprendiendo y siempre probando.~
-
-</details>  
 
 
